@@ -3,7 +3,7 @@
     - header,footer, section
 
 ## header layout  
-- top, left, right, bottom 에서 사용하는 메뉴
+- top, left, right, bottom, hamburger menu
 
 ## footer
 - 회사 정보, 파트너사 정보, 카피라이터, 로고
@@ -19,4 +19,13 @@
 - 팝업(이미지, 영상)
 - 배경(영상, 배너, 슬라이드)
 - form(사전예약)
+
+
+## 예시
+- https://codepen.io/
+- https://www.browndust.app/ko/news/update
+- header TOP menu : https://event.browndust.app/summerIsland/index.html
+- header LEFT menu : https://event.browndust.app/reload/index.html
+- hamburger menu : https://event.browndust.app/season3/index.html
+
       
